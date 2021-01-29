@@ -1,2 +1,2 @@
-# test
-this is a test repository for now.
+# Digit_recognizer
+contains all the necessary files to run an AI that recognizes digits. 
